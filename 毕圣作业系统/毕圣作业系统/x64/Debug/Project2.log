@@ -1,0 +1,8 @@
+﻿  源.cpp
+D:\桌面保存临时资料\智能程序\毕圣作业系统\毕圣作业系统\源.cpp(4,9): warning C4616: #pragma warning: 警告编号“836”不是有效的编译器警告
+D:\桌面保存临时资料\智能程序\毕圣作业系统\毕圣作业系统\源.cpp(797,18): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+D:\桌面保存临时资料\智能程序\毕圣作业系统\毕圣作业系统\源.cpp(797,20): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+D:\桌面保存临时资料\智能程序\毕圣作业系统\毕圣作业系统\源.cpp(799,25): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+D:\桌面保存临时资料\智能程序\毕圣作业系统\毕圣作业系统\源.cpp(799,27): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+D:\桌面保存临时资料\智能程序\毕圣作业系统\毕圣作业系统\源.cpp(836,8): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面保存临时资料\智能程序\毕圣作业系统\毕圣作业系统\源.cpp(835,7): warning C4101: “sc”: 未引用的局部变量

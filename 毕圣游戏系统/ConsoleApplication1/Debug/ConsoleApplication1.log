@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\17927\Desktop\智能程序\毕圣游戏系统\ConsoleApplication1\ConsoleApplication1.cpp(169,17): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+C:\Users\17927\Desktop\智能程序\毕圣游戏系统\ConsoleApplication1\ConsoleApplication1.cpp(169,19): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+C:\Users\17927\Desktop\智能程序\毕圣游戏系统\ConsoleApplication1\ConsoleApplication1.cpp(171,24): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+C:\Users\17927\Desktop\智能程序\毕圣游戏系统\ConsoleApplication1\ConsoleApplication1.cpp(171,26): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+  ConsoleApplication1.vcxproj -> C:\Users\17927\Desktop\智能程序\毕圣游戏系统\ConsoleApplication1\Debug\ConsoleApplication1.exe
